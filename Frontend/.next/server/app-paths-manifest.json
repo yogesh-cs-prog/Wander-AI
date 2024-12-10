@@ -1,4 +1,26 @@
 {
+  "/_not-found/page": "app/_not-found/page.js",
+  "/blog-details/page": "app/blog-details/page.js",
+  "/contact/page": "app/contact/page.js",
+  "/about/page": "app/about/page.js",
+  "/blog/page": "app/blog/page.js",
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/destination1/page": "app/destination1/page.js",
+  "/destination-details/page": "app/destination-details/page.js",
+  "/faqs/page": "app/faqs/page.js",
+  "/destination2/page": "app/destination2/page.js",
+  "/gellery-grid/page": "app/gellery-grid/page.js",
+  "/index2/page": "app/index2/page.js",
+  "/not-found/page": "app/not-found/page.js",
+  "/gellery-slider/page": "app/gellery-slider/page.js",
+  "/index3/page": "app/index3/page.js",
+  "/page": "app/page.js",
+  "/pricing/page": "app/pricing/page.js",
+  "/product-details/page": "app/product-details/page.js",
+  "/tour-details/page": "app/tour-details/page.js",
+  "/shop/page": "app/shop/page.js",
+  "/tour-guide/page": "app/tour-guide/page.js",
   "/tour-grid/page": "app/tour-grid/page.js",
-  "/page": "app/page.js"
+  "/tour-list/page": "app/tour-list/page.js",
+  "/tour-sidebar/page": "app/tour-sidebar/page.js"
 }
